@@ -46,7 +46,7 @@ public class OpenChromeBrowser {
 
 		System.setProperty("webdriver.chrome.driver", basePath + "\\NewDrivers\\chromedriver.exe");
 		                          dr = new ChromeDriver();
-
+// updated in the github
 	}
 
 }
